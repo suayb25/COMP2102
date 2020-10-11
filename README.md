@@ -1,4 +1,3 @@
-## Işık University
 ## Instructor: 
 ### Dr. Faik Boray Tek 
 ## Assistant: 
