@@ -25,7 +25,7 @@ public class MeasureTime {
         try{
             main2();
         }
-        catch(Exception e ){
+        catch(Exception e){
             System.out.println("Did not work");
         }
     }
@@ -41,7 +41,6 @@ public class MeasureTime {
             long elapsedTime = (endTime-startTime);
             //pw.printf("%d\t%d \n", n,elapsedTime);
             pw.println(n+"\t"+ elapsedTime);
-        
         }
         pw.close();
     }
@@ -88,6 +87,4 @@ public class MeasureTime {
                 sum +=i*j;
         return sum;
     }
-    
-    
 }
