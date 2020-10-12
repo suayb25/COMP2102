@@ -1,3 +1,4 @@
+Check branches for different Lab weeks.
 ## Instructor: 
 ### Dr. Faik Boray Tek 
 ## Assistant: 
