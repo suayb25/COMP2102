@@ -64,16 +64,21 @@ public class MyLinkedList {
     }
 
     public void removeLast() {
-        if (isEmpty() || first.next == null) {
+        Node current = first;
+        if (isEmpty()) {
+            return;
+        }else if(first.next==null){
+            first=null;
+            last=null;
+            size--;
             return;
         }
-        Node current = first;
-        while (current.next.next != null) {
+        while (current.next != last) {
             current = current.next;
         }
         /*for(int i=0;i<size-2;i++){
             current=current.next;
-        }*/
+            }*/
         last = current;
         last.next = null;
         size--;
