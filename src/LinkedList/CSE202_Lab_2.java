@@ -31,7 +31,8 @@ public class CSE202_Lab_2 {
         ml.insertSorted(25);
         System.out.println(ml.toString());
         System.out.println("Sum of all elements in LinkedList= " + ml.getSum());
-
+        ml.insertNth(523,2);
+        System.out.println(ml.toString());
         /*ml.insertAfterV2(112,272);
         System.out.println(ml.toString());*/
         System.out.println("-------------------");
