@@ -1,0 +1,18 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(É°çÌ8»×èÑ.
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­ğ‘şÿÿÿÿ8ôÂïÁÑ.
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­ğ‘şÿÿÿÿ8ôÂïÁÑ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¾±Òúÿÿÿÿ8Ñ¢ñèÑ.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¡™Şüÿÿÿÿ8ŞıûÁÑ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ùÕ“øÿÿÿÿ8Ñ¢ñèÑ.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıå¾8Ñ¢ñèÑ.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¡™Şüÿÿÿÿ8ŞıûÁÑ.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¡™Şüÿÿÿÿ8ŞıûÁÑ.
+m	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿóøã8×áµÂÑ.
+>
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ8»×èÑ.
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­ğ‘şÿÿÿÿ8ôÂïÁÑ.
+F
+java:S2140A")Use "java.util.Random.nextInt()" instead.(•”ÎË8×áµÂÑ.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(µåêª8×áµÂÑ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(î‡èöüÿÿÿÿ8–ëâçÑ.

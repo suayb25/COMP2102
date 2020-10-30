@@ -1,0 +1,14 @@
+
+n
+java:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(Ğø£ƒ8ç‹óŠÔ.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(¼½ªÿÿÿÿÿ8ç‹óŠÔ.
+X	java:S125?"<This block of commented-out lines of code should be removed.(•¡äù8ç‹óŠÔ.
+E
+java:S1481I"(Remove this unused "sum" local variable.(¸ ŒË8ç‹óŠÔ.
+X	java:S1254"<This block of commented-out lines of code should be removed.(ó’–µ8ç‹óŠÔ.
+]	java:S125C"<This block of commented-out lines of code should be removed.(ş¹èøüÿÿÿÿ8ç‹óŠÔ.
+W	java:S125T"<This block of commented-out lines of code should be removed.(æÿ8ç‹óŠÔ.
+X	java:S125("<This block of commented-out lines of code should be removed.(†ÃŸÈ8ç‹óŠÔ.
+m	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹¨ı8ç‹óŠÔ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ––ßûÿÿÿÿ8ç‹óŠÔ.
+m	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¨Äê8ç‹óŠÔ.

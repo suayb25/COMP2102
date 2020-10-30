@@ -8,9 +8,9 @@ public class MyLinkedList {
     /**
      * Init MyLinkedList with specified first node, last node and size
      *
-     * @param first the first node of list
-     * @param last the last node of list
-     * @param size size the size of list
+     * "first" the first node of list
+     * "last" the last node of list
+     * "size" size the size of list
      */
     public MyLinkedList() {
         first = null;
