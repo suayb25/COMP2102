@@ -1,5 +1,5 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ÃŠ™úÿÿÿÿ
 Y	java:S125‡"<This block of commented-out lines of code should be removed.(ãòÁÕ8ÿ˜ÅŠÔ.
 c
 java:S2259ˆ"EA "NullPointerException" could be thrown; "current" is nullable here.(ì´Ý 8ÿ˜ÅŠÔ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ÃŠ™úÿÿÿÿ
