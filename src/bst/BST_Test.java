@@ -102,9 +102,9 @@ public class BST_Test<Item> {
         PrintWriter pw = new PrintWriter("deneme.txt");
 
         // pass the path to the file as a parameter
-        FileReader fr = new FileReader("C:\\Users\\talha\\Desktop\\sdssds.txt");
+        FileReader fr = new FileReader("flights.txt");
         try {
-            File myObj = new File("C:\\Users\\talha\\Desktop\\sdssds.txt");
+            File myObj = new File("flights.txt");
             Scanner myReader = new Scanner(myObj);
             while (myReader.hasNextLine()) {
                 //System.out.println("next= "+myReader.next());
