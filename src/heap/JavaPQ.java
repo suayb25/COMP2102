@@ -27,12 +27,10 @@ public class JavaPQ {
         for (int i = 0; i<n ;i++) {
             System.out.println(pq2.remove());
         }
-
     }
 }
 
 class Student implements Comparable<Student>{
-
     float gpa;
     int idNo;
     String name;

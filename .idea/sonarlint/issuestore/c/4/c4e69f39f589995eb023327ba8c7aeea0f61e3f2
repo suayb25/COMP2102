@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þ§÷«ýÿÿÿÿ
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ñÐÃä8ñ¢®ºÚ.
+9
+java:S1643s"Use a StringBuilder instead.(ù¤ ’8¾î¢ºÚ.
+T	java:S106|"9Replace this use of System.out or System.err by a logger.(ÔÿŒH8¾î¢ºÚ.
+9
+java:S1643j"Use a StringBuilder instead.(–äƒš8÷ßûºÚ.
+h	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÝÙŠ8¯­ò¹Ú.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(´õ›äúÿÿÿÿ8ÕŒ¢ëÚ.
+]	java:S125d"<This block of commented-out lines of code should be removed.(óàÚåüÿÿÿÿ8£¸Ó»Ú.

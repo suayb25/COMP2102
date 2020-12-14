@@ -1,0 +1,6 @@
+
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜8³¥¸Çå.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Û¸ìþûÿÿÿÿ8ÈäÀÇå.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8‰¼ÁÇå.
+>
+java:S1116<"Remove this empty statement.(Û¸ìþûÿÿÿÿ8ÈäÀÇå.

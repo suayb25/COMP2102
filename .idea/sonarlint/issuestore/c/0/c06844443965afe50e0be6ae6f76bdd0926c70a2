@@ -1,0 +1,6 @@
+
+{
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ê÷ şÿÿÿÿ8Öú¿Æå.
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(¹‘œã8Áâ“äå.
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(îêÊÈ8ƒŠ°Æå.
+X	java:S125h"<This block of commented-out lines of code should be removed.(‘Û«8Õ©çå.
