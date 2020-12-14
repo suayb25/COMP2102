@@ -1,0 +1,7 @@
+hot sıcak
+long uzun
+short kısa
+computer bilgisayar
+teacher öğretmen
+school okul
+student öğrenci

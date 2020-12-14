@@ -37,7 +37,7 @@ public class AVLTree_Test {
         System.out.println("-----Test 2 End-------");
 
         TreeMap treeMap = new TreeMap();
-        treeMap.put(5,"kdf");
+        treeMap.put(5, "kdf");
 
     }
 }

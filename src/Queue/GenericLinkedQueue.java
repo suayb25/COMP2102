@@ -1,11 +1,11 @@
 package Queue;
 
-public class GenericLickedQueue<T> {
+public class GenericLinkedQueue<T> {
     private int size;
     private Node<T> first;
     private Node<T> last;
 
-    public GenericLickedQueue() {
+    public GenericLinkedQueue() {
         first = null;
         last = null;
         size = 0;

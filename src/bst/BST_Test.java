@@ -22,7 +22,7 @@ public class BST_Test<Item> {
         binarySearchTree.addNode(26, "canset");*/
 
         BST<Integer> binarySearchTreeInteger = new BST<Integer>();
-        binarySearchTreeInteger.addNode(4,4);
+        binarySearchTreeInteger.addNode(3,4);
         binarySearchTreeInteger.addNode(3,3);
         binarySearchTreeInteger.addNode(1,1);
         binarySearchTreeInteger.addNode(0,0);

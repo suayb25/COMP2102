@@ -1,6 +1,6 @@
 package AVLTree;
 
-public class AVLNodeComparable<Key extends Comparable<Key>,Value> {
+public class AVLNodeComparable<Key extends Comparable<Key>, Value> {
     public final Key key;   // the key
     public Value val;       // the associated value
     public int height;      // height of the subtree
