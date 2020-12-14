@@ -14,10 +14,9 @@ public class BST<Item> {
      * adds a new Node to the tree
      */
     public void addNode(int key, Item nm) {
-        Node n = new Node(key, nm);
         // if the tree is empty
         if (root == null) {
-            root = n;
+            root = new Node(key, nm);
         } else {
             Node tmp = root;
             Node parent = root;
@@ -27,11 +26,15 @@ public class BST<Item> {
                     tmp = tmp.left;
                 } else if (key > tmp.key) {
                     tmp = tmp.right;
+                }else{
+                    parent.data = nm;
+                    break;
                 }
             }
+            Node n = new Node(key, nm);
             if (key < parent.key) {
                 parent.left = n;
-            } else {
+            }else if(key > parent.key) {
                 parent.right = n;
             }
         }
@@ -48,11 +51,9 @@ public class BST<Item> {
         if (focus.key == key) //found return the node
         {
             return focus;
-        } else if (key < focus.key) //check which side to go
-        {
+        } else if (key < focus.key){ //check which side to go
             return searchRecursive(focus.left, key);
-        } else //
-        {
+        } else {
             return searchRecursive(focus.right, key);
         }
     }
