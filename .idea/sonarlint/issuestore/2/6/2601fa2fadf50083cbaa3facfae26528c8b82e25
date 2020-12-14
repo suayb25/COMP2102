@@ -1,0 +1,23 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„„ί-
+b
+java:S2095|"EUse try-with-resources or close this "Scanner" in a "finally" clause.(½θ‡΅8Χ΅οδε.
+>
+java:S1643p"Use a StringBuilder instead.(­©μÿÿÿÿÿ8Χ΅οδε.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(υÿΔ8Χ΅οδε.
+h	java:S116
+"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ύζ©Ξ8Χ΅οδε.
+g	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Βμύ8Χ΅οδε.
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(φ·Μ³8Χ΅οδε.
+X	java:S125"<This block of commented-out lines of code should be removed.( λ΅ν8Χ΅οδε.
+H
+java:S1905A"&Remove this unnecessary cast to "int".(ƒώτψÿÿÿÿ8Χ΅οδε.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(έΡΛ•8Χ΅οδε.
+{
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(η…Ξωÿÿÿÿ8Χ΅οδε.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(§“ΣΝόÿÿÿÿ8Χ΅οδε.
+v
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(›·ρ8Χ΅οδε.
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(αΔÿ‘όÿÿÿÿ8Χ΅οδε.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ϋ°8Χ΅οδε.
+[	java:S106"9Replace this use of System.out or System.err by a logger.( ΅ϊςύÿÿÿÿ8Χ΅οδε.

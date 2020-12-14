@@ -1,0 +1,16 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£¼±‰8§ûÑãå.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ó ¬ôıÿÿÿÿ8ªúéãå.
+O
+java:S1135"2Complete the task associated to this TODO comment.(Ìûû8§ûÑãå.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(×²…òûÿÿÿÿ8Ø¡ùæå.
+{
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Ş°ïüÿÿÿÿ8§ûÑãå.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Åñşµùÿÿÿÿ8¹÷æãå.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¨Œ8§ûÑãå.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8‹óçãå.
+L
+java:S19056"*Remove this unnecessary cast to "Student".(„¯Ìùÿÿÿÿ8ÄÆÓãå.
+L
+java:S19054"*Remove this unnecessary cast to "Student".(µµâ„úÿÿÿÿ8ÄÆÓãå.

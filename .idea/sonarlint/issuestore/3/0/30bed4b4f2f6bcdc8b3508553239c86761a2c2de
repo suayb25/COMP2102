@@ -1,0 +1,18 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ş¥Å
+L
+java:S3740	"/Provide the parametrized type for this generic.(ş„Çæ8‡­Î¡á.
+r
+java:S1104"PMake left a static final constant or non-public and provide accessors if needed.(óĞâıÿÿÿÿ8ÎÎÖ¡á.
+t
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(Š»Æøÿÿÿÿ8ÎÎÖ¡á.
+j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ñ‡Üƒÿÿÿÿÿ8ùó©Ëá.
+n
+java:S1104	"QMake right a static final constant or non-public and provide accessors if needed.(ş„Çæ8ÎÎÖ¡á.
+j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ñ‡Üƒÿÿÿÿÿ8ùó©Ëá.
+q
+java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(©†·¡ùÿÿÿÿ8ë†Ö¡á.
+Q
+java:S3740"/Provide the parametrized type for this generic.(óĞâıÿÿÿÿ8«˜Î¡á.
+m
+java:S1104"PMake size a static final constant or non-public and provide accessors if needed.(ë’„•8ÎÎÖ¡á.

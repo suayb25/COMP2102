@@ -1,0 +1,16 @@
+
+Q
+java:S3740;"/Provide the parametrized type for this generic.(Äæµíÿÿÿÿÿ8Ì¸ŒØ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ğöËÿÿÿÿÿ8ñøì®Ø.
+m	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö÷Îûÿÿÿÿ8¢ÕÅœØ.
+L
+java:S3740"/Provide the parametrized type for this generic.(‚ƒÃÆ8Ñ³àœØ.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûK
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ƒÃÆ8œËàœØ.
+L
+java:S3740"/Provide the parametrized type for this generic.(ˆ½Æ´8»ìï®Ø.
+L
+java:S3740"/Provide the parametrized type for this generic.(ˆ½Æ´8’§ï®Ø.
+v
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").( èÜµ8£ÑÇœØ.
