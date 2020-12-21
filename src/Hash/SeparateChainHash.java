@@ -82,5 +82,14 @@ public class SeparateChainHash<Item> {
         stringSeparateChainHash.delete("cse");
         System.out.println(stringSeparateChainHash.toString());
         System.out.println("-------------");
+        SeparateChainHash<Integer> stringSeparateChainQuiz = new SeparateChainHash<>(6);
+        stringSeparateChainQuiz.insert(7);
+        stringSeparateChainQuiz.insert(3);
+        stringSeparateChainQuiz.insert(11);
+        stringSeparateChainQuiz.insert(12);
+        stringSeparateChainQuiz.insert(15);
+        stringSeparateChainQuiz.insert(11);
+        stringSeparateChainQuiz.insert(16);
+        System.out.println(stringSeparateChainQuiz.toString());
     }
 }

@@ -64,7 +64,7 @@ public class HeapSort {
         System.out.println("Element Swap Count = " + elementSwaps);
 
         System.out.println("---------");
-        int[] a = {2, 5, 60, 50, 11, 12, 6, 7, 23, 9, 10, 35};
+        int[] a = {2, 5, 60, 11, 12, 6, 7, 23, 9, 10, 35};
         print(a);
         sort(a);
         print(a);
