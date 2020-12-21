@@ -21,20 +21,20 @@ public class MergeSort {
     }
 
     public static void mergeSort(Comparable[] a, Comparable[] aux, int lo, int hi) {
-        System.out.println("lo= " + lo + " hi= " + hi);
+        //System.out.println("lo= " + lo + " hi= " + hi);
         if (hi <= lo) {
-            System.out.println("return");
+            //System.out.println("return");
             return;
         }
         int mid = (lo + hi) / 2;
         mergeSort(a, aux, lo, mid);
-        System.out.println("First merge finished");
+        //System.out.println("First merge finished");
         mergeSort(a, aux, mid + 1, hi);
-        System.out.println("merge");
+        //System.out.println("merge");
         merge(a, aux, lo, mid, hi);
     }
 
-    private static void merge(Comparable[] a, Comparable[] aux, int lo, int mid, int hi) {
+    private static void merge(Comparable[] a, Comparable[] aux, int lo, int mid, int hi) {//O(NlogN)
         System.out.println("lo= " + lo + " mid= " + mid + " hi= " + hi);
         System.arraycopy(a, 0, aux, 0, a.length);
         int j = lo;
@@ -43,9 +43,9 @@ public class MergeSort {
         for (int i = lo; i <= hi; i++) {
             if (j <= mid && k <= hi) {
                 if (less(aux[j], aux[k])) {
-                    a[i] = a[j++];
+                    a[i] = aux[j++];
                 } else {
-                    a[i] = a[k++];
+                    a[i] = aux[k++];
                 }
             } else if (j <= mid) {
                 a[i] = aux[j++];
