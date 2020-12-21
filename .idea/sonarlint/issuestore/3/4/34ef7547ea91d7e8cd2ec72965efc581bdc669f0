@@ -1,6 +1,11 @@
 
-U	java:S1065"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜8³¥¸Çå.
-Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Û¸ìþûÿÿÿÿ8ÈäÀÇå.
-Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8‰¼ÁÇå.
->
-java:S1116<"Remove this empty statement.(Û¸ìþûÿÿÿÿ8ÈäÀÇå.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜8‚Àï‹æ.
+9
+java:S11166"Remove this empty statement.(Œì€8Ã—ô‹æ.
+y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ûàÆÂüÿÿÿÿ8É¥Ü‹æ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ì¾Ö—ÿÿÿÿÿ8É¥Ü‹æ.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ŠŒß‹æ.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ÙõýÅúÿÿÿÿ8ŠŒß‹æ.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Œì€8Ã—ô‹æ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å—ƒ¶ýÿÿÿÿ8É¥Ü‹æ.

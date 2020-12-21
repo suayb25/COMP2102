@@ -139,3 +139,7 @@ U
 %src/Hash/LinearProbingDoubleHash.java,2\6\2601fa2fadf50083cbaa3facfae26528c8b82e25
 D
 src/heap/JavaPQ.java,3\e\3efc834949c210b6bfd722e0f17462d469c5fb49
+K
+src/sort/InsertionSort.java,d\5\d5cc399d32304f5b96d7ad48dfe5a26ac3f97592
+E
+src/sort/Student.java,a\f\af73eac8539e96218dfa5e3a21abf2c4acc0bcf4

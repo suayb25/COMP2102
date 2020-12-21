@@ -1,20 +1,20 @@
 
-Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¿ØÍøÿÿÿÿ8ôáÜÊá.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(®à¹ 8üŒËÉá.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¿ØÍøÿÿÿÿ8ôáÜÊá.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ïè›óşÿÿÿÿ8·ˆÛÊá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃĞ—æşÿÿÿÿ8‚‚ÑÊá.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÿŠŸ­8Ç¼İÊá.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÆÆÀËùÿÿÿÿ8ƒ¼ÊÉá.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ş¥Å
 Q
 java:S3740'"/Provide the parametrized type for this generic.(„ª†Åúÿÿÿÿ8û°™Ëá.
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•‘’Ê8ˆºÇÉá.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃĞ—æşÿÿÿÿ8‚‚ÑÊá.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ş¥Å
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(‰¶®Äüÿÿÿÿ8’ù÷Êá.
+Q
+java:S3740'"/Provide the parametrized type for this generic.(„ª†Åúÿÿÿÿ8û°™Ëá.
 b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦á…¬
 {
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ğ°¨ûÿÿÿÿ8³õÒÊá.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(‰¶®Äüÿÿÿÿ8’ù÷Êá.
-Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ïè›óşÿÿÿÿ8·ˆÛÊá.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•‘’Ê8ˆºÇÉá.
 Z	java:S106$"9Replace this use of System.out or System.err by a logger.(œÎ ıÿÿÿÿ8„ŸËá.
-U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÿŠŸ­8Ç¼İÊá.
-Q
-java:S3740'"/Provide the parametrized type for this generic.(„ª†Åúÿÿÿÿ8û°™Ëá.
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(ÆÆÀËùÿÿÿÿ8ƒ¼ÊÉá.

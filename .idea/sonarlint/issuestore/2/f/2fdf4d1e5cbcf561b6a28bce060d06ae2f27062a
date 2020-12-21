@@ -1,25 +1,25 @@
 
-e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Õ±£õ8Ù –êã.
 n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„„ß-
-L
-java:S3740a"/Provide the parametrized type for this generic.(ÂËÀÇ8åşÂêã.
-Q
-java:S3740"/Provide the parametrized type for this generic.(é‰èİúÿÿÿÿ8Ù –êã.
-e	java:S119
-"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Å©åÒ8âß‰êã.
-v
-java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ¤×À8åşÂêã.
-£
-java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ÿËÔøÿÿÿÿ8·ƒœêã.
+K
+java:S3740U"/Provide the parametrized type for this generic.(àã’l8‰ğÁêã.
 L
 java:S3740"/Provide the parametrized type for this generic.(Õ¬·8Ù –êã.
-K
-java:S3740U"/Provide the parametrized type for this generic.(àã’l8‰ğÁêã.
-L
-java:S37407"/Provide the parametrized type for this generic.(ìªÁ8©´¤êã.
 e	java:S119
 "IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Å©åÒ8âß‰êã.
+£
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ÿËÔøÿÿÿÿ8·ƒœêã.
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Õ±£õ8Ù –êã.
+v
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ¤×À8åşÂêã.
+L
+java:S3740a"/Provide the parametrized type for this generic.(ÂËÀÇ8åşÂêã.
+g	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÚ¶=8æ¾êã.
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Õ±£õ8Ù –êã.
+L
+java:S37407"/Provide the parametrized type for this generic.(ìªÁ8©´¤êã.
 K
 java:S3740U"/Provide the parametrized type for this generic.(àã’l8‰ğÁêã.
-e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Õ±£õ8Ù –êã.
-g	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÚ¶=8æ¾êã.
+e	java:S119
+"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Å©åÒ8âß‰êã.
+Q
+java:S3740"/Provide the parametrized type for this generic.(é‰èİúÿÿÿÿ8Ù –êã.
