@@ -24,7 +24,7 @@ public class SeparateChainHash<Item> {
     public void insert(Item key) {
         int i = hash(key);
 
-        table[i].insertFirst(key);
+        table[i].insert(key); //linkedList checks the key. If this key is in LinkedList, it will just update it.
     }
 
     public String toString() {

@@ -1,60 +1,60 @@
 
-U	java:S106}"9Replace this use of System.out or System.err by a logger.(œ½Ú8––üĞà.
-U	java:S106v"9Replace this use of System.out or System.err by a logger.(¯óù¨8Î‹¸Ğà.
-O
-java:S14814"-Remove this unused "cloneBST" local variable.(Ş»†‘ùÿÿÿÿ8ŒÂ‹©ß.
-{
-java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(û˜³Üøÿÿÿÿ8ğØªëÜ.
-X
-java:S1854i"6Remove this useless assignment to local variable "fr".(æê—ûÿÿÿÿ8²ŠˆÑà.
-U	java:S106F"9Replace this use of System.out or System.err by a logger.(ìªê˜8â–¢ÿŞ.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(Ç¼İçşÿÿÿÿ8µ¼ê‰İ.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(îçîşÿÿÿÿ8§Ñã©ß.
+R
+java:S1481"5Remove this unused "binarySearchTree" local variable.(î×åÔ8ñÎÿŞ.
 v
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¬Ì¬8†Ø¨êÜ.
-Z	java:S106p"9Replace this use of System.out or System.err by a logger.(å¼—ñÿÿÿÿÿ8—–ÌĞà.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(†Ğ™İ8œóĞà.
-T
-java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ë±ÖŞ.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8 ÿµëÜ.
-j
-java:S2095i"HUse try-with-resources or close this "FileReader" in a "finally" clause.(æê—ûÿÿÿÿ8ÄÒ¬Ğà.
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(Ú›±ªüÿÿÿÿ8‘·‰İ.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(˜áÉòùÿÿÿÿ8¡É¹ˆİ.
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(¯óù¨8Î‹¸Ğà.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(±Ñ‡Ñıÿÿÿÿ8ÀÑÔ©ß.
 U	java:S106#"9Replace this use of System.out or System.err by a logger.(ŒÙ×š8‰÷°ëÜ.
-Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ŠŠ¤úÿÿÿÿ8ÀÑÔ©ß.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÌÄ¿Îøÿÿÿÿ8ğí¦ÿŞ.
 I
 java:S1481i"'Remove this unused "fr" local variable.(æê—ûÿÿÿÿ8²ŠˆÑà.
+j
+java:S2095i"HUse try-with-resources or close this "FileReader" in a "finally" clause.(æê—ûÿÿÿÿ8ÄÒ¬Ğà.
+{
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(û˜³Üøÿÿÿÿ8ğØªëÜ.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(å¼—ñÿÿÿÿÿ8—–ÌĞà.
+]	java:S125n"<This block of commented-out lines of code should be removed.(óàî ıÿÿÿÿ8ğšÂĞà.
 Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(‰Óûøıÿÿÿÿ8òá©©ß.
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(î×åÔ8¬ıÃÚÜ.
-U	java:S106|"9Replace this use of System.out or System.err by a logger.(ó‹§8––üĞà.
-Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÌÄ¿Îøÿÿÿÿ8ğí¦ÿŞ.
-Z	java:S106{"9Replace this use of System.out or System.err by a logger.(œ „şùÿÿÿÿ8£ÈõĞà.
-U	java:S106B"9Replace this use of System.out or System.err by a logger.(Ô¢¹Â8•ÿşŞ.
-@
-java:S2326"Item is not used in the class.(’÷å…øÿÿÿÿ8úøìşŞ.
-Z	java:S106;"9Replace this use of System.out or System.err by a logger.(˜áÉòùÿÿÿÿ8¡É¹ˆİ.
-H
-java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8»¬µÖŞ.
-Z	java:S106S"9Replace this use of System.out or System.err by a logger.(Ú›±ªüÿÿÿÿ8‘·‰İ.
 X	java:S125I"<This block of commented-out lines of code should be removed.(ÑÍí²8µ¼ê‰İ.
 k
 java:S2095f"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(‚€‚³ûÿÿÿÿ8É© Ñà.
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ë±ÖŞ.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ŠŠ¤úÿÿÿÿ8ÀÑÔ©ß.
 Q
 java:S3740V"/Provide the parametrized type for this generic.(„ª†Åúÿÿÿÿ8ÜÈ£©ß.
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(ó‹§8––üĞà.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’÷å…øÿÿÿÿ
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(œ „şùÿÿÿÿ8£ÈõĞà.
+]	java:S1256"<This block of commented-out lines of code should be removed.(ÒÇğ¢øÿÿÿÿ8¼Éû¥ß.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(ìªê˜8â–¢ÿŞ.
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(œ½Ú8––üĞà.
+Y	java:S125…"<This block of commented-out lines of code should be removed.(™ˆ¯Ò8¯òÑà.
+@
+java:S2326"Item is not used in the class.(’÷å…øÿÿÿÿ8úøìşŞ.
 ^
 java:S18544"<Remove this useless assignment to local variable "cloneBST".(Ş»†‘ùÿÿÿÿ8ŒÂ‹©ß.
-Z	java:S106/"9Replace this use of System.out or System.err by a logger.(îçîşÿÿÿÿ8§Ñã©ß.
-U	java:S106\"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬8‚©Ş©ß.
-Q
-java:S3740V"/Provide the parametrized type for this generic.(„ª†Åúÿÿÿÿ8ÜÈ£©ß.
-R
-java:S1481"5Remove this unused "binarySearchTree" local variable.(î×åÔ8ñÎÿŞ.
-j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(’÷å…øÿÿÿÿ8¬ş´ıŞ.
 a
 java:S1854"DRemove this useless assignment to local variable "binarySearchTree".(î×åÔ8ñÎÿŞ.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8 ÿµëÜ.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(Ô¢¹Â8•ÿşŞ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†Ğ™İ8œóĞà.
+Q
+java:S3740V"/Provide the parametrized type for this generic.(„ª†Åúÿÿÿÿ8ÜÈ£©ß.
+X
+java:S1854i"6Remove this useless assignment to local variable "fr".(æê—ûÿÿÿÿ8²ŠˆÑà.
 X	java:S125"<This block of commented-out lines of code should be removed.(ŠÀŸš8ÛôæÚÜ.
-Z	java:S106_"9Replace this use of System.out or System.err by a logger.(±Ñ‡Ñıÿÿÿÿ8ÀÑÔ©ß.
-Y	java:S125…"<This block of commented-out lines of code should be removed.(™ˆ¯Ò8¯òÑà.
-Z	java:S106="9Replace this use of System.out or System.err by a logger.(Ç¼İçşÿÿÿÿ8µ¼ê‰İ.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’÷å…øÿÿÿÿ
-]	java:S1256"<This block of commented-out lines of code should be removed.(ÒÇğ¢øÿÿÿÿ8¼Éû¥ß.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(î×åÔ8¬ıÃÚÜ.
+O
+java:S14814"-Remove this unused "cloneBST" local variable.(Ş»†‘ùÿÿÿÿ8ŒÂ‹©ß.
+j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(’÷å…øÿÿÿÿ8¬ş´ıŞ.
 Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ÀÏ°ıÿÿÿÿ8õíşŞ.
-]	java:S125n"<This block of commented-out lines of code should be removed.(óàî ıÿÿÿÿ8ğšÂĞà.
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬8‚©Ş©ß.
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8»¬µÖŞ.
