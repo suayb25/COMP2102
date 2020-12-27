@@ -1,24 +1,24 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ”©†ıÿÿÿÿ8ëåëã.
-Z	java:S106+"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8¶¿Ñëã.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¬Ğ•ÿÿÿÿÿ8¬ñ ëã.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôµÁ‚şÿÿÿÿ8¸¤œëã.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÌŸáıÿÿÿÿÿ8‰Ñªëã.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜Õœ¤ÿÿÿÿÿ8ıÓ¬ëã.
 U	java:S106,"9Replace this use of System.out or System.err by a logger.(—»¨à8ş‡Ñëã.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôµÁ‚şÿÿÿÿ8“œ¬ëã.
-U	java:S1060"9Replace this use of System.out or System.err by a logger.(½­Ò“8ÂÆÓëã.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÄôÁÇ8“’¥ëã.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„„ß-
-a
-java:S2095 "EUse try-with-resources or close this "Scanner" in a "finally" clause.(îò“d8ş¤Âëã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôµÁ‚şÿÿÿÿ8¸¤œëã.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(µåïúüÿÿÿÿ8ÂÆÓëã.
 E	java:S108'")Either remove or fill this block of code.(”ı¾8ù»¾ëã.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜Õœ¤ÿÿÿÿÿ8ç¤ëã.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(½­Ò“8ÂÆÓëã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ”©†ıÿÿÿÿ8ëåëã.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¡’·ÿÿÿÿÿ8‹£¯ëã.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ÿŠ™™ûÿÿÿÿ8ÂÆÓëã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ğüàøÿÿÿÿ8ˆî«ëã.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8¶¿Ñëã.
 Z	java:S106."9Replace this use of System.out or System.err by a logger.(Ë Šüÿÿÿÿ8ÂÆÓëã.
 {
 java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(á’ş…ùÿÿÿÿ8¤ñšëã.
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(µåïúüÿÿÿÿ8ÂÆÓëã.
-Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ÿŠ™™ûÿÿÿÿ8ÂÆÓëã.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¡’·ÿÿÿÿÿ8‹£¯ëã.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ğüàøÿÿÿÿ8ˆî«ëã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÄôÁÇ8“’¥ëã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôµÁ‚şÿÿÿÿ8“œ¬ëã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜Õœ¤ÿÿÿÿÿ8ç¤ëã.
+a
+java:S2095 "EUse try-with-resources or close this "Scanner" in a "finally" clause.(îò“d8ş¤Âëã.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„„ß-

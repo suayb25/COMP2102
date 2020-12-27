@@ -4,6 +4,7 @@ import Queue.GenericLinkedQueue;
 
 /**
  * LinkedList Key-Value version
+ *
  * @param <Key>
  * @param <Value>
  */
@@ -60,7 +61,7 @@ public class SequentialSearch<Key, Value> {
             }
             current = current.next;
         }
-        first = new Node<>(key, val);
+        first = new Node<>(key, val, first);
         N++;
     }
 
@@ -69,13 +70,14 @@ public class SequentialSearch<Key, Value> {
     }
 
     public Value get(Key key) {
-        for (Node<Key,Value> x = first; x != null; x = x.next) {
+        for (Node<Key, Value> x = first; x != null; x = x.next) {
             if (key.equals(x.key)) {
                 return x.val;
             }
         }
         return null;
     }
+
     public void delete(Key key) {
         first = delete(first, key);
     }
@@ -92,7 +94,7 @@ public class SequentialSearch<Key, Value> {
         return x;
     }
 
-    public Iterable<Key> keys()  {
+    public Iterable<Key> keys() {
         GenericLinkedQueue<Key> queue = new GenericLinkedQueue<Key>();
         for (Node x = first; x != null; x = x.next)
             queue.enqueue((Key) x.key);

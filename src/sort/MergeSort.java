@@ -21,16 +21,16 @@ public class MergeSort {
     }
 
     public static void mergeSort(Comparable[] a, Comparable[] aux, int lo, int hi) {
-        //System.out.println("lo= " + lo + " hi= " + hi);
+        System.out.println("lo= " + lo + " hi= " + hi);
         if (hi <= lo) {
-            //System.out.println("return");
+            System.out.println("return");
             return;
         }
         int mid = (lo + hi) / 2;
         mergeSort(a, aux, lo, mid);
-        //System.out.println("First merge finished");
+        System.out.println("First merge finished");
         mergeSort(a, aux, mid + 1, hi);
-        //System.out.println("merge");
+        System.out.println("merge");
         merge(a, aux, lo, mid, hi);
     }
 
@@ -41,15 +41,15 @@ public class MergeSort {
         int k = mid + 1;
 
         for (int i = lo; i <= hi; i++) {
-            if (j <= mid && k <= hi) {
-                if (less(aux[j], aux[k])) {
+            if (j <= mid && k <= hi) {//we are checking boundaries
+                if (less(aux[j], aux[k])) {//set the small one to a[i]
                     a[i] = aux[j++];
                 } else {
                     a[i] = aux[k++];
                 }
-            } else if (j <= mid) {
+            } else if (j <= mid) {//if just j<=mid (this means k>hi, we finished the other half), each iteration we will set the a[i] = a[j++]
                 a[i] = aux[j++];
-            } else if (k <= hi) {
+            } else if (k <= hi) {//if just k<=hi (this means j>mid, we finished the other half), each iteration we will set the a[i] = a[j++]
                 a[i] = aux[k++];
             }
         }
@@ -70,11 +70,11 @@ public class MergeSort {
         mergeSort(a);
         print(a);
 
-        Integer[] ascending = {4,7,9,67,100,101};
+        Integer[] ascending = {4, 7, 9, 67, 100, 101};
         print(ascending);
         mergeSort(ascending);
         print(ascending);
-        Integer[] descending = {101,100,67,9,7,4};
+        Integer[] descending = {101, 100, 67, 9, 7, 4};
         print(descending);
         mergeSort(descending);
         print(descending);

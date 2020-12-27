@@ -1,6 +1,6 @@
 package Hash;
 
-public class LinkedList<Item> {
+public class LinkedList<Item> {//This LinkedList is for SeparateChainHash so some methods is different from normal LinkedList
     Node<Item> first, last;
     int size = 0;
 
@@ -19,28 +19,25 @@ public class LinkedList<Item> {
         size = 0;
     }
 
-    public void insertFirst(Item x) {
-        Node<Item> newNode = new Node(x);
-        if (first == null) {
-            first = newNode;
-            last = newNode;
-        } else {
-            newNode.next = first;
-            first = newNode;
+    public void insert(Item x) {
+        if (x == null) {
+            return;
         }
+        Node current = first;
+        while (current != null) {
+            if (x.equals(current.data)) {
+                current.data = x;
+                return;
+            }
+            current = current.next;
+        }
+        first = new Node<Item>(x, first);
         size++;
     }
 
-    public void insertLast(Item x) {
-        Node<Item> newNode = new Node(x);
-        if (first == null) {
-            first = newNode;
-            last = newNode;
-        } else {
-            last.next = newNode;
-            last = newNode;
-        }
-        size++;
+
+    public boolean contains(Item key) {
+        return get(key) != null;
     }
 
     public Item get(Item x){

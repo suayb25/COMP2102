@@ -346,4 +346,19 @@ public class BST<Item> {
             return t;
         }
     }
+
+    public static void main(String[] args) {
+        BST<Integer> binarySearchTreeInteger2 = new BST<Integer>();
+        binarySearchTreeInteger2.addNode(84,84);
+        binarySearchTreeInteger2.addNode(22,22);
+        binarySearchTreeInteger2.addNode(65,65);
+        binarySearchTreeInteger2.addNode(34,34);
+        binarySearchTreeInteger2.addNode(76,76);
+        binarySearchTreeInteger2.addNode(31,31);
+        binarySearchTreeInteger2.addNode(49,49);
+        binarySearchTreeInteger2.addNode(66,66);
+        binarySearchTreeInteger2.addNode(33,33);
+        binarySearchTreeInteger2.traverseLevelOrder(binarySearchTreeInteger2.root);
+        System.out.println("-------");
+    }
 }

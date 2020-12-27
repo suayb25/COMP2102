@@ -1,40 +1,40 @@
 
 L
 java:S3740S"/Provide the parametrized type for this generic.(¹×û8ìş¼Éá.
-`
-java:S2259E"CA "NullPointerException" could be thrown; "focus" is nullable here.(¿­›8ƒ…¨Éá.
 L
 java:S3740S"/Provide the parametrized type for this generic.(¹×û8ìş¼Éá.
+L
+java:S3740V"/Provide the parametrized type for this generic.(ö¬×ó8ìş¼Éá.
+e
+java:S2259J"CA "NullPointerException" could be thrown; "focus" is nullable here.(§‰™¨úÿÿÿÿ8œ‡«Éá.
+Q
+java:S3740"/Provide the parametrized type for this generic.(£ü¢·ûÿÿÿÿ8ÄÆÈá.
+B
+java:S1128"%Remove this unused import 'bst.Node'.(’¥™é8 ø½Éá.
+Q
+java:S37400"/Provide the parametrized type for this generic.(„²ÊŠúÿÿÿÿ8„Ì÷Èá.
+`
+java:S2259E"CA "NullPointerException" could be thrown; "focus" is nullable here.(¿­›8ƒ…¨Éá.
 r
 java:S1104"PMake root a static final constant or non-public and provide accessors if needed.(ääÊÊùÿÿÿÿ8Ş—µÈá.
-v
-java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹×û8ìş¼Éá.
-L
-java:S3740."/Provide the parametrized type for this generic.(Ê¿¼8–ğÈá.
-U	java:S106]"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8ìş¼Éá.
+d	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Œ¡êu8¯‚´Èá.
 Q
 java:S3740a"/Provide the parametrized type for this generic.(ºØ«µúÿÿÿÿ8¯¨•Êá.
 L
-java:S3740b"/Provide the parametrized type for this generic.(‘ãÕ 8—¤˜Êá.
-M
-java:S3740"/Provide the parametrized type for this generic.(ËÕâ–8“ÂÿÊá.
-Q
-java:S3740R"/Provide the parametrized type for this generic.(Ş¦Ñ‘úÿÿÿÿ8ìş¼Éá.
-B
-java:S1128"%Remove this unused import 'bst.Node'.(’¥™é8 ø½Éá.
-d	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Œ¡êu8¯‚´Èá.
-Q
-java:S3740"/Provide the parametrized type for this generic.(£ü¢·ûÿÿÿÿ8ÄÆÈá.
-L
 java:S3740!"/Provide the parametrized type for this generic.(‚¢°Ï8©¶İÈá.
-Q
-java:S37400"/Provide the parametrized type for this generic.(„²ÊŠúÿÿÿÿ8„Ì÷Èá.
 Q
 java:S3740"/Provide the parametrized type for this generic.(¢ì€úÿÿÿÿ8Ğ­¹Èá.
 Q
-java:S3740|"/Provide the parametrized type for this generic.(¹˜şÏúÿÿÿÿ8ñ’çÊá.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ş¥Å
-e
-java:S2259J"CA "NullPointerException" could be thrown; "focus" is nullable here.(§‰™¨úÿÿÿÿ8œ‡«Éá.
+java:S3740R"/Provide the parametrized type for this generic.(Ş¦Ñ‘úÿÿÿÿ8ìş¼Éá.
 L
-java:S3740V"/Provide the parametrized type for this generic.(ö¬×ó8ìş¼Éá.
+java:S3740."/Provide the parametrized type for this generic.(Ê¿¼8–ğÈá.
+M
+java:S3740"/Provide the parametrized type for this generic.(ËÕâ–8“ÂÿÊá.
+Q
+java:S3740|"/Provide the parametrized type for this generic.(¹˜şÏúÿÿÿÿ8ñ’çÊá.
+v
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹×û8ìş¼Éá.
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8ìş¼Éá.
+L
+java:S3740b"/Provide the parametrized type for this generic.(‘ãÕ 8—¤˜Êá.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ş¥Å
