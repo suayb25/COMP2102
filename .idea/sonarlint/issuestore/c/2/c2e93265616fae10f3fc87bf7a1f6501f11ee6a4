@@ -1,18 +1,18 @@
 
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó„ßğúÿÿÿÿ8ÍøÈêã.
-h	java:S116"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıæ©Î8µ¿Èêã.
-u
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(â¢ÎB8Ÿ°Éêã.
-j	java:S119
-"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ğ¡ºíÿÿÿÿÿ8¹Öƒêã.
-m	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ÓÛüÿÿÿÿ8µ¿Èêã.
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹“ö€8ÍøÈêã.
 n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„„ß-
-v
-java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬†Æ8¢ÀÓêã.
 R
 java:S1905"5Remove this unnecessary cast to "SequentialSearch[]".(Ì­ßŠ8Ó˜²ìã.
 j	java:S119
 "IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ğ¡ºíÿÿÿÿÿ8¹Öƒêã.
+j	java:S119
+"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ğ¡ºíÿÿÿÿÿ8¹Öƒêã.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó„ßğúÿÿÿÿ8ÍøÈêã.
+h	java:S116"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıæ©Î8µ¿Èêã.
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(â¢ÎB8Ÿ°Éêã.
+v
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬†Æ8¢ÀÓêã.
+m	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ÓÛüÿÿÿÿ8µ¿Èêã.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹“ö€8ÍøÈêã.
 Z	java:S106T"9Replace this use of System.out or System.err by a logger.(® ÕÉøÿÿÿÿ8¢ÀÓêã.

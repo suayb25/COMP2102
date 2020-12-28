@@ -1,18 +1,18 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸêÔ8‚¬«è.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(šş›‚ùÿÿÿÿ8Ø×€«è.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¥Ìı8æ«è.
+F
+java:S1144	")Remove this unused private "swap" method.(à¢ôı8™ø€ªè.
 U	java:S106!"9Replace this use of System.out or System.err by a logger.(Ò¨ı„8‚¬«è.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(óÙÓˆşÿÿÿÿ8îø¬ªè.
 U	java:S106&"9Replace this use of System.out or System.err by a logger.(ÂšüŒ8ÓìÒªè.
 L
 java:S3740"/Provide the parametrized type for this generic.(¡´Ÿı8™ø€ªè.
 Z	java:S106="9Replace this use of System.out or System.err by a logger.(£Û—‹úÿÿÿÿ8îø¬ªè.
+L
+java:S3740"/Provide the parametrized type for this generic.(÷ì8™ø€ªè.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥Ìı8æ«è.
 Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8îø¬ªè.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸêÔ8‚¬«è.
 U	java:S106D"9Replace this use of System.out or System.err by a logger.(Ñ‰ÁÅ8¬¬ªè.
-F
-java:S1144	")Remove this unused private "swap" method.(à¢ôı8™ø€ªè.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šş›‚ùÿÿÿÿ8Ø×€«è.
 L
 java:S3740"/Provide the parametrized type for this generic.(÷ì8™ø€ªè.
-L
-java:S3740"/Provide the parametrized type for this generic.(÷ì8™ø€ªè.
-Z	java:S106;"9Replace this use of System.out or System.err by a logger.(óÙÓˆşÿÿÿÿ8îø¬ªè.

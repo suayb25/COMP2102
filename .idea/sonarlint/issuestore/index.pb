@@ -145,3 +145,9 @@ E
 src/sort/Student.java,a\f\af73eac8539e96218dfa5e3a21abf2c4acc0bcf4
 G
 src/sort/MergeSort.java,3\3\33b07c48b6ec4fec2a5471dca3d85d14a23f87a4
+J
+src/sort/PairwiseSumK.java,c\3\c3535f655da7740a090b392ce31077e60fbdf4b2
+G
+src/sort/QuickSort.java,6\d\6d836c36a90b7f1e300f7fd3133237ef13c5bb33
+G
+src/sort/Exercises.java,2\2\22b52b89090c8a9f332f6450ee835709ac1139ac

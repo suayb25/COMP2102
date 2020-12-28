@@ -1,18 +1,18 @@
 
 L
-java:S3740/"/Provide the parametrized type for this generic.(ìªÁ8‚æéã.
-L
-java:S3740@"/Provide the parametrized type for this generic.(É÷ñÒ8õ‡èéã.
+java:S3740,"/Provide the parametrized type for this generic.(ìªÁ8‚æéã.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„„ß-
+G
+java:S1481-"*Remove this unused "index" local variable.(ìüà·8Ä¢øèã.
+{
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(“ìÛáÿÿÿÿÿ8‹ÆÉ«ê.
 ?
 java:S1659""Declare "last" on a separate line.(ş‘âà8ãÈàèã.
-e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‘‚Ñ8µ‹Şèã.
-Q
-java:S3740#"/Provide the parametrized type for this generic.(Øù¶ıøÿÿÿÿ8‚æéã.
-X	java:S1253"<This block of commented-out lines of code should be removed.(ï–­¬8®¡€éã.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„„ß-
-Q
-java:S3740"/Provide the parametrized type for this generic.(Øù¶ıøÿÿÿÿ8‚æéã.
+d	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Œ­Ó48µ‹Şèã.
 L
-java:S3740@"/Provide the parametrized type for this generic.(É÷ñÒ8õ‡èéã.
-G
-java:S14810"*Remove this unused "index" local variable.(ìüà·8Ä¢øèã.
+java:S3740="/Provide the parametrized type for this generic.(É÷ñÒ8õ‡èéã.
+X	java:S1250"<This block of commented-out lines of code should be removed.(ï–­¬8®¡€éã.
+L
+java:S3740="/Provide the parametrized type for this generic.(É÷ñÒ8õ‡èéã.
+L
+java:S3740"/Provide the parametrized type for this generic.(ìªÁ8ğÀÅ«ê.
