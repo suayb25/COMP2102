@@ -30,7 +30,7 @@ public class HeapSortGeneric {
     }
 
     public static boolean less(Comparable[] pq,int i,int j){
-        return (pq[i-1].compareTo(pq[j-1])) < 0 ;
+        return (pq[i].compareTo(pq[j])) < 0 ;
     }
 
     public static void swap(Object[] ar, int i, int j) { //exch
