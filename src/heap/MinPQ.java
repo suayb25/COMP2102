@@ -38,8 +38,12 @@ public class MinPQ<Key> {
     }
 
     public void insert(Key x) {
-        pq[++n] = x;
-        swim(n);
+        if(n + 1<pq.length){
+            pq[++n] = x;
+            swim(n);
+        }else{
+            System.out.println("Queue is full! You can not add new value to the queue!);
+        }
     }
 
     private void sink(int k) {
