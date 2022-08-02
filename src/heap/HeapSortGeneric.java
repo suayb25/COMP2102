@@ -2,14 +2,14 @@ package heap;
 
 public class HeapSortGeneric {
     public static void sort(Comparable[] arIn) {
-        int N = arIn.length;
+        int N = arIn.length-1;
         //heapify
         for (int k = N / 2; k >= 1; k--) {
             sink(arIn, k, N);
         }
         System.out.println("Heapified: ");
         print(arIn);
-        for (int k = arIn.length; k > 1; ) {
+        for (int k = arIn.length-1; k > 1; ) {
             swap(arIn, 1, k--);
             sink(arIn, 1, k);
         }
@@ -34,21 +34,21 @@ public class HeapSortGeneric {
     }
 
     public static void swap(Object[] ar, int i, int j) { //exch
-        Object tmp = ar[i - 1];
-        ar[i - 1] = ar[j - 1];
-        ar[j - 1] = tmp;
+        Object tmp = ar[i];
+        ar[i] = ar[j];
+        ar[j] = tmp;
     }
 
     public static void print(Comparable[] ar) {
-        for (int i = 0; i < ar.length; i++) {
+        for (int i = 1; i < ar.length; i++) {
             System.out.print(ar[i] + " ");
         }
         System.out.println();
     }
 
     public static void main(String[] args) {
-        String[] a ={"s","o","r","t","e","x","a","m","p","l","e"};
-        for (int i= 0; i<a.length;i++) {
+        String[] a ={"","s","o","r","t","e","x","a","m","p","l","e"};
+        for (int i= 1; i<a.length;i++) {
             System.out.print(a[i]+" ");
         }
         System.out.println();;
