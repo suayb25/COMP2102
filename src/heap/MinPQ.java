@@ -42,7 +42,7 @@ public class MinPQ<Key> {
             pq[++n] = x;
             swim(n);
         }else{
-            System.out.println("Queue is full! You can not add new value to the queue!);
+            System.out.println("The queue is full! You can not insert a new value into the queue!");
         }
     }
 
