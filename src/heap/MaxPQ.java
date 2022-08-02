@@ -63,7 +63,7 @@ public class MaxPQ<Key> {
             pq[++n] = x;
             swim(n);
         }else{
-            System.out.println("The queue is full! You can not add a new value!");
+            System.out.println("The queue is full! You can not insert a new value into the queue!");
         }
     }
 
