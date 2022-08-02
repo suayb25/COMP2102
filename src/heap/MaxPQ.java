@@ -59,8 +59,12 @@ public class MaxPQ<Key> {
     }
 
     public void insert(Key x) {
-        pq[++n] = x;
-        swim(n);
+        if(n + 1<pq.length){
+            pq[++n] = x;
+            swim(n);
+        }else{
+            System.out.println("The queue is full! You can not add a new value!");
+        }
     }
 
     public Key delMax() {
